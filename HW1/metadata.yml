@@ -1,0 +1,12 @@
+---
+:id: 75221830
+:submitters:
+- :name: غزل زمانی‌نژاد
+  :email: ghzamaninejad@gmail.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-16 19:34:45.795860000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-16 12:34:45.795860000 Z
+:status: processed
+:score: 71.0
